@@ -62,4 +62,26 @@ foreach (string backpack in backpacks)
 Console.WriteLine("Sum of priorities: " + totalPriorities);
 
 // PART 2: 
+int priorities = 0;
+    
+for (int backpackNo = 0; backpackNo < backpacks.Length; backpackNo += 3)
+{
+    foreach (char item in backpacks[backpackNo])
+    {
+        foreach (char item1 in backpacks[backpackNo + 1])
+        {
+            foreach (char item2 in backpacks[backpackNo + 2])
+            {
+                if (item == item1 && item1 == item2)
+                {
+                    priorities += Array.IndexOf(itemsPriorities, item);
+                    goto LoopEnd;
+                }
+            }
+        }
+    }
 
+    LoopEnd:;
+}
+
+Console.WriteLine("Part 2 Priorities: " + priorities);

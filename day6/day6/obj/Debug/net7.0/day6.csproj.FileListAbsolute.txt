@@ -1,0 +1,15 @@
+/home/steph/Desktop/Projects/AdventOfCode/day6/day6/bin/Debug/net7.0/day6
+/home/steph/Desktop/Projects/AdventOfCode/day6/day6/bin/Debug/net7.0/day6.deps.json
+/home/steph/Desktop/Projects/AdventOfCode/day6/day6/bin/Debug/net7.0/day6.runtimeconfig.json
+/home/steph/Desktop/Projects/AdventOfCode/day6/day6/bin/Debug/net7.0/day6.dll
+/home/steph/Desktop/Projects/AdventOfCode/day6/day6/bin/Debug/net7.0/day6.pdb
+/home/steph/Desktop/Projects/AdventOfCode/day6/day6/obj/Debug/net7.0/day6.csproj.AssemblyReference.cache
+/home/steph/Desktop/Projects/AdventOfCode/day6/day6/obj/Debug/net7.0/day6.GeneratedMSBuildEditorConfig.editorconfig
+/home/steph/Desktop/Projects/AdventOfCode/day6/day6/obj/Debug/net7.0/day6.AssemblyInfoInputs.cache
+/home/steph/Desktop/Projects/AdventOfCode/day6/day6/obj/Debug/net7.0/day6.AssemblyInfo.cs
+/home/steph/Desktop/Projects/AdventOfCode/day6/day6/obj/Debug/net7.0/day6.csproj.CoreCompileInputs.cache
+/home/steph/Desktop/Projects/AdventOfCode/day6/day6/obj/Debug/net7.0/day6.dll
+/home/steph/Desktop/Projects/AdventOfCode/day6/day6/obj/Debug/net7.0/refint/day6.dll
+/home/steph/Desktop/Projects/AdventOfCode/day6/day6/obj/Debug/net7.0/day6.pdb
+/home/steph/Desktop/Projects/AdventOfCode/day6/day6/obj/Debug/net7.0/day6.genruntimeconfig.cache
+/home/steph/Desktop/Projects/AdventOfCode/day6/day6/obj/Debug/net7.0/ref/day6.dll
